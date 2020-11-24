@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Options>
+    <Option>
+        <Textarea1>Новые данные 1</Textarea1>
+        <Textarea2>Новые данные 2</Textarea2>
+        <Select>blue</Select>
+        <Radio>large</Radio>
+    </Option>
+</Options>
+
+
+
+
+
